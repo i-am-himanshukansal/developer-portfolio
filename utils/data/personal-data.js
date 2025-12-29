@@ -1,9 +1,16 @@
 export const personalData = {
   name: "HIMANSHU KANSAL",
-  profile: "/profile.jpeg", 
+  profile: "/profile.jpeg",
   designation: "Software Developer",
-  description:
-    "My name is Himanshu Kansal. I am a Computer Science Engineering student at IIIT Una (Batch 2026) and a passionate Frontend Developer with strong interest in MERN stack development and Data Structures & Algorithms. I am a quick learner with a self-learning attitude and love building responsive, user-friendly web applications using modern technologies like React.js. I enjoy problem-solving, exploring new technologies, and continuously improving my development skills. I am actively looking for internship and entry-level opportunities that align with my skills and career goals.",
+  
+about:
+"Hi, I am Himanshu Kansal, a B.Tech Computer Science Engineering student at IIIT Una (Batch 2026) from Ghaziabad, Uttar Pradesh. I am a Full Stack MERN Developer with a strong foundation in Data Structures and Algorithms, focused on writing clean, efficient, and scalable code. I enjoy building responsive web applications and continuously improving my skills through real-world projects and problem-solving.",
+description:
+"Full Stack MERN Developer and B.Tech CSE student at IIIT Una (Batch 2026) with strong expertise in frontend development, MERN stack technologies, and Data Structures & Algorithms.",
+roleOpportunity:
+"Actively seeking internship and full-time opportunities in Software Development, SDE, Full Stack MERN, and Web Development roles where I can contribute effectively and grow as a software engineer.",
+
+  email: "himanshukansal101@gmail.com",
   email: "himanshukansal101@gmail.com",
   phone: "+91-8595893159",
   address: "IIIT Una, Himachal Pradesh, India",
@@ -13,6 +20,6 @@ export const personalData = {
   twitter: "https://x.com/mHimanshukansal",
   stackOverflow: "YOUR_STACKOVERFLOW_LINK_HERE",
   leetcode: "https://leetcode.com/u/himanshukansal101/",
-  devUsername: "i-am-himanshukansal",
+  devUsername: "himanshu_kansal_652c1f270",
   resume: "https://drive.google.com/file/d/1GS7BKhLdX4Jd3g_fHQorkb_EtyDwERy-/view?usp=drive_link",
 };

@@ -1,20 +1,21 @@
 export const experiences = [
   {
     id: 1,
-    title: "Frontend Developer",
-    company: "Personal Projects & Practice",
-    duration: "(2024 - Present)",
+    title: "Full Stack Web Development Intern",
+    company: "UnifiedMentor",
+    duration: "(Aug 2025 – Present)",
   },
   {
     id: 2,
-    title: "MERN Stack Learner",
-    company: "Academic & Self Learning",
-    duration: "(2023 - Present)",
+    title: "Web Development Intern (Associate L1)",
+    company: "Infotact Solutions",
+    duration: "(Mar 2025 – Aug 2025)",
   },
   {
     id: 3,
-    title: "DSA & Problem Solving Enthusiast",
-    company: "Self Practice (LeetCode, GitHub)",
-    duration: "(2022 - Present)",
+    title: "Core Coordinator",
+    company: "Zenith Sports Club",
+    duration: "(Oct 2025 – Present)",
+    description: "Organized badminton events and managed sports activities",
   },
 ];
