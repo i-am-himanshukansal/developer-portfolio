@@ -1,7 +1,11 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
     "paths": {
       "@/*": ["./*"]
-    }
-  }
+    },
+    "checkJs": false,
+    "types": []
+  },
+  "exclude": ["node_modules", ".next"]
 }
