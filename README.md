@@ -66,7 +66,7 @@ TELEGRAM_CHAT_ID=your_chat_id
 
 ## 🎨 Customization
 
-All portfolio content is managed from:
+All portfolio content is managed from ;
 
 ```
 utils/data/
