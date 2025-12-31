@@ -16,6 +16,7 @@ export const skillsData = [
   'VSCode',
   'Dsa',
   'RESTAPI',
+  'postman'
 ];
 
 

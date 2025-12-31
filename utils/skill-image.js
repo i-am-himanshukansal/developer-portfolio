@@ -81,6 +81,7 @@ import dotnetcore from '../app/assets/svg/skills/dotnetcore.svg'
 import kubernetes from '../app/assets/svg/skills/kubernetes.svg'
 import linux from '../app/assets/svg/skills/linux.svg'
 import sqlalchemy from '../app/assets/svg/skills/sqlalchemy.svg'
+import postman from '../app/assets/svg/skills/postman.svg'
 import fastapi from '../app/assets/svg/skills/fastapi.svg'
 
 
@@ -275,6 +276,8 @@ export const skillsImage = (skill) => {
       return dsa;
     case 'restapi':
       return restapi;  
+    case 'postman':
+      return postman;  
     default:
       break;
   }
