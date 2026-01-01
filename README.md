@@ -87,7 +87,7 @@ Recommended platform: **Vercel**
 Steps:
 1. Import the GitHub repository
 2. Add environment variables
-3. Deploy
+3. Deploy.
 
 ---
 
