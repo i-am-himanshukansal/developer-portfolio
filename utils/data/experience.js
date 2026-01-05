@@ -8,7 +8,7 @@ export const experiences = [
   {
     id: 2,
     title: "Web Development Intern (Associate L1)",
-    company: "Infotact Solutions",
+    company: "Infotact Solutions.",
     duration: "(Mar 2025 – Aug 2025)",
   },
   {
