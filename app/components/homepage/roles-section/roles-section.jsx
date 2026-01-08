@@ -7,7 +7,7 @@ const roles = [
   {
     title: "Full Stack Developer",
     description:
-      "Building complete web applications using MERN stack with scalable frontend and backend architectures.",
+      "Building complete web applications using MERN stack with scalable frontend and  backend architectures.",
     icon: <FaLayerGroup />,
   },
   {
