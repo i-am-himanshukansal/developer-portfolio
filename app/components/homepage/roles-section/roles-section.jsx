@@ -19,7 +19,7 @@ const roles = [
   {
     title: "Backend Developer",
     description:
-      "Designing secure APIs, database schemas, and server-side logic using Node.js and Express.",
+      "Designing secure APIs,database schemas, and server-side logic using Node.js and Express.",
     icon: <FaServer />,
   },
   {
