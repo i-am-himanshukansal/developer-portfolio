@@ -21,5 +21,5 @@ roleOpportunity:
   stackOverflow: "YOUR_STACKOVERFLOW_LINK_HERE",
   leetcode: "https://leetcode.com/u/himanshukansal101/",
   devUsername: "himanshu_kansal_652c1f270",
-  resume: "https://drive.google.com/file/d/1GS7BKhLdX4Jd3g_fHQorkb_EtyDwERy-/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/1cKe8lZbtGe5Yn-y5T4GZilROhmWX6SQD/view?usp=drive_link",
 };
